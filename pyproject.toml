@@ -27,8 +27,8 @@ dependencies = [
     "tqdm",
     "matplotlib",
     "numpy<2",
-    "pandas>=2.0.3",
-    "seaborn>=0.12.2",
+    "pandas", #"pandas>=2.0.3",
+    "seaborn", #"seaborn>=0.12.2"
     "leven",
 
 ]
